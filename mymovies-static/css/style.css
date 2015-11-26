@@ -2,16 +2,15 @@ p {
     font-weight: 550;
     text-align: justify;
 }
-
 .content h2 {
-    color :dodgerblue;
+    color: dodgerblue;
 }
-
-
 img {
     width: 100%;
 }
-
 .jumbotron p {
-    font-size:18px;
+    font-size: 18px;
+}
+.table tbody {
+    cursor: pointer;
 }
